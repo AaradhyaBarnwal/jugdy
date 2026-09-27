@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body{
+    margin: 200px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    gap: 50px;
+    background-color: black;
+}
+
+div{
+    gap: 20px;
+    display: grid;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    color: rgb(5, 108, 108);
+}
+
+input{
+    height: 2.5rem;
+    width: 15vw;
+    border-radius: 7px;
+    border: 0;
+    outline: 0;
+    align-self: center;
+    justify-self: center;
+    display: flex;
+    padding: 2px;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    width: 120px;
+    height: 50px;
+    border-radius: 15px;
+    align-self: center;
+    justify-self: center;
+    display: flex;
+    color: bisque;
+    background-color: rgb(84, 80, 80);
+    align-items: center;
+    justify-content: center;
+    border: none;
+    outline: none;
+}
+
+p{
+    color: rgb(171, 231, 231);
+}
+
+h1{
+    display: flex;
+    align-self: center;
+    justify-self: center;
+    color: beige;
+}
