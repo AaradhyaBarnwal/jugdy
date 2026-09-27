@@ -5,7 +5,7 @@
 }
 
 body{
-    margin: 200px;
+    margin: 100px;
     display: grid;
     align-items: center;
     justify-content: center;
@@ -20,6 +20,9 @@ div{
     font-family: 'Courier New', Courier, monospace;
     font-weight: 600;
     color: rgb(5, 108, 108);
+    border: 1px white solid;
+    padding: 15px;
+    border-radius: 15px;
 }
 
 input{
@@ -60,4 +63,5 @@ h1{
     align-self: center;
     justify-self: center;
     color: beige;
+    font-family: sans-serif;
 }
