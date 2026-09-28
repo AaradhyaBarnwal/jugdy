@@ -21,17 +21,3 @@
 
 <h3>disclaimer</h3>
 <li>This project is not meant to hurt anybody
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
