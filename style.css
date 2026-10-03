@@ -65,3 +65,19 @@ h1{
     color: beige;
     font-family: sans-serif;
 }
+
+img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    justify-self: center;
+    width: 253px;
+    height: 607px;
+}
+
+.harry{
+    font-size: x-large;
+    width: 50vw;
+    color: rgb(3, 65, 65);
+}

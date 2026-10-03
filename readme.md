@@ -15,20 +15,7 @@
 <li>answer the question asked
 <li>get a message 
 <li>and be judged
+<li>Scroll a bit to here the story of harry
 
 <h3>disclaimer</h3>
 <li>This project is not meant to hurt anybody
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
