@@ -5,10 +5,10 @@
 
 
 <h2>What is it?</h2>
-<li>A judge to judge all nighters 
+<li>A judge to judge all nighters . basically a fun yet simple project trying to pass a appropriate suitable comment according to your sleep schedule 
 
 <h2>Inspiration</h2>
-<li>My mother judging me at night
+<li>What inspired me is how often see sleeping late night is such a bad habit hearing the same lines just makes your head ache isn't it? so why not let a website do it ? so just to make those boring judgy statements a little fun  
 
 <h2>How I made it?</h2>
 <li>Editor: vs code
